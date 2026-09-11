@@ -1,0 +1,8 @@
+print("Akshay", "Aura", 3.14, True, sep= " ** ")
+print("Akshay")
+print("Akshay")
+print("Akshay")
+print("Akshay")
+print("Akshay")
+print("Akshay")
+print("Akshay")
